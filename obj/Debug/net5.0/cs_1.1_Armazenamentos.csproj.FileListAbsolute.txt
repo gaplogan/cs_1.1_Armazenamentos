@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\cs_1.1_Armazenamentos.csprojAssemblyReference.cache
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\cs_1.1_Armazenamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\cs_1.1_Armazenamentos.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\cs_1.1_Armazenamentos.AssemblyInfo.cs
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\cs_1.1_Armazenamentos.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.1_Armazenamentos\bin\Debug\net5.0\cs_1.1_Armazenamentos.exe
+E:\GitHub\cs_1.1_Armazenamentos\bin\Debug\net5.0\cs_1.1_Armazenamentos.deps.json
+E:\GitHub\cs_1.1_Armazenamentos\bin\Debug\net5.0\cs_1.1_Armazenamentos.runtimeconfig.json
+E:\GitHub\cs_1.1_Armazenamentos\bin\Debug\net5.0\cs_1.1_Armazenamentos.runtimeconfig.dev.json
+E:\GitHub\cs_1.1_Armazenamentos\bin\Debug\net5.0\cs_1.1_Armazenamentos.dll
+E:\GitHub\cs_1.1_Armazenamentos\bin\Debug\net5.0\ref\cs_1.1_Armazenamentos.dll
+E:\GitHub\cs_1.1_Armazenamentos\bin\Debug\net5.0\cs_1.1_Armazenamentos.pdb
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\cs_1.1_Armazenamentos.dll
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\ref\cs_1.1_Armazenamentos.dll
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\cs_1.1_Armazenamentos.pdb
+E:\GitHub\cs_1.1_Armazenamentos\obj\Debug\net5.0\cs_1.1_Armazenamentos.genruntimeconfig.cache
